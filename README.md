@@ -1,2 +1,3 @@
 # git-sparta
-hello how are you
+SPARTA IS FUN
+england is my city
